@@ -1,4 +1,4 @@
-PROJECTS_DIR=~/AndroidStudioProjects
+PROJECTS_DIR=~/newand
 DEST_DIR=~/android_lab
 
 for project in "$PROJECTS_DIR"/*; do
